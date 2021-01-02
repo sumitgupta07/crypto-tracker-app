@@ -5,4 +5,4 @@
 3. Run 'npm run serve' from root directory
 
 
-## First task  assignment file: "load-test.js" file is added at the root of the project folder.
+### First task  assignment file: "load-test.js" file is added at the root of the project folder.
